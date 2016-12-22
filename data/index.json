@@ -1,0 +1,25 @@
+{
+	"rw":[
+  {"img":"img/port1.jpg", "h3y":"Ebony & lvory","p":"A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.","a":"READ MORE","span":"Branding","h3n":"EBONY"},
+  {"img":"img/port2.jpg", "h3y":"Smart Stationary","p":"A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.","a":"READ MORE","span":"Print Design","h3n":"STATIONARY"},
+  {"img":"img/port3.jpg", "h3y":"Clever Poster","p":"A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.","a":"READ MORE","span":"Print Design","h3n":"POSTER"},
+  {"img":"img/port4.jpg", "h3y":"Vinyl Record","p":"A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.","a":"READ MORE","span":"Product Mock-Up","h3n":"RECORD"},
+  {"img":"img/port5.jpg", "h3y":"Tree House Template","p":"A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.","a":"READ MORE","span":"Web Design","h3n":"DESIGN"},
+  {"img":"img/port6.jpg", "h3y":"Burned Logo","p":"A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.","a":"READ MORE","span":"Branding","h3n":"BRANDING"}
+	],
+	"zx":[
+	{"img":"img/service1.png", "a":"E-Commerce","p":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
+	{"img":"img/service2.png", "a":"Responsive Web","p":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
+	{"img":"img/service3.png", "a":"Web Security","p":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."}
+	],
+	"fj":[
+	{"img1":"img/time-line-img.jpg","h311":"JULY 2010","h312":"Our Humble Beginnings","p1":"Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit.","img2":"img/time-line-img1.jpg","h321":"JANUARY 2011","h322":"Facing Startup Battles","p2":"Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt."},
+	{"img1":"img/time-line-img2.jpg","h311":"DECEMBER 2012","h312":"Enter The Dark Days","p1":"Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. Proin iaculis purus consequat sem cure digni.","img2":"img/time-line-img4.jpg","h321":"FEBRUARY 2014","h322":"Our Triumph","p2":"Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean rhoncus posuere odio in tincidunt. Proin iaculis purus consequat sem cure digni ssim. Donec porttitora entum suscipit aenean."}
+	],
+	"js":[
+	{"img":"img/team-member1.jpg","h3":"Kimberly Thompson","p":"Marketer"},
+	{"img":"img/team-member2.jpg","h3":"Rico Massimo","p":"Coder"},
+	{"img":"img/team-member3.jpg","h3":"Uku Mason","p":"Graphic Designer"}
+	]
+}
+
